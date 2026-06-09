@@ -1,9 +1,11 @@
+
 @import "tailwindcss";
 
-@theme {
-  --letter-dim: w-6 ,
-  --medium-dim: w-8 ,
-  --lg-dim: w-10 ,
-  --xlg-dim: w-12 ,
-  --half-dim: w-7,
+:root {
+  --key-letter: 50px;
+  --key-md: 32px;
+  --key-lg: 40px;
+  --key-xlg: 48px;
+  --key-half: 36px;
+  --key-space: 128px;
 }
