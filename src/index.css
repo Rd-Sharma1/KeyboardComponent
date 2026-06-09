@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --letter-dim: w-6 ,
+  --medium-dim: w-8 ,
+  --lg-dim: w-10 ,
+  --xlg-dim: w-12 ,
+  --half-dim: w-7,
+}
